@@ -1,0 +1,4 @@
+node_modules/
+.env
+news_env/
+et-gen-ai-001-firebase-adminsdk-fbsvc-40fb71846c.json

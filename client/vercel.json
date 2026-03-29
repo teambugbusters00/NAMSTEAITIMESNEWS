@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://server-233efjaiy-vadrevuharipriyas-projects.vercel.app/api/$1"
+    }
+  ],
+  "regions": ["bom"]
+}
